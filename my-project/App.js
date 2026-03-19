@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>
-        Hi my name is Eddie Smith, I'm a mobile developer
+        Hi my name is Eddie Smith, and I'm a mobile developer
       </Text>
 
       <StatusBar style="auto" />
